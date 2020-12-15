@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "searchTop":"../../components/searchTop/searchTop"
+  }
+}
